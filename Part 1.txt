@@ -1,0 +1,2 @@
+The application tried to use a memory location which is was not correct due to Operating System version.
+Running compatibility mode may assist to get the appliction running as a quick fix.
